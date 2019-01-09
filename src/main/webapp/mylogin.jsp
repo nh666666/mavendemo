@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>我在成都很好，你在重庆也好吧</h1>
+	<h1>我在成都很好，你们在重庆也要一样的好</h1>
 </body>
 </html>
